@@ -1,0 +1,22 @@
+ creating react app completed ,
+ setting Json server Completed ,
+ folderstructure and routings completed,
+ displaying table done,
+ updating and deleting done,
+ environment varialbe setting done,
+
+used features :
+ fetch methods ,
+ routing concept,
+ React hooks ,
+ folder and layout setting
+
+
+
+ pendinfg :
+ 1 form validations
+ 2 updating badge
+
+
+ issues:
+ 1 update and created times are same 

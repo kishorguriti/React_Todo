@@ -1,0 +1,12 @@
+.nav-style{
+    font-family: 'Roboto';
+    font-weight:bold;
+}
+
+
+.navbar-nav .nav-link.active {
+    color: white;
+    background-color:rgba(13, 127, 221, 0.4);
+    border-radius: 16px;
+    
+}
